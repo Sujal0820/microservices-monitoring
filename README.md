@@ -31,12 +31,12 @@ User → API Gateway → Auth Service → Data Service
 
 ### Failure Scenario
 <p align="center">
-  <img src=screenshots/2.png" width="800"/>
+  <img src="screenshots/2.png" width="800"/>
 </p>
 
 ### Latency Distribution (p50, p95, p99)
 <p align="center">
-  <img src=screenshots/3.png" width="800"/>
+  <img src="screenshots/3.png" width="800"/>
 </p>
 
 ## Features
